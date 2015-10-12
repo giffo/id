@@ -2,8 +2,7 @@
  * this just tests that the module is installed correctly, and runs through all the methods.
  */
 
-var ID = require("./index");
-//var ID = require("giffo-id");
+var ID = require("giffo-id");
 
 
 console.time("init time");

@@ -15,9 +15,9 @@
 		"url": "https://github.com/giffo/id/issues" 
 	},
 	
-	"keywords": {
+	"keywords": [
 		"giffo-id", "uuid", "uuid v4", "id", "random", "randomstring", "random string", "giffo", "random salt"
-	},
+	],
 	"license": "MIT"
 	
 	

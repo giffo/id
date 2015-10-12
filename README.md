@@ -10,7 +10,7 @@ Calling randomBytes was over 200 times slower in windows(7) compared to linux at
 
 #####install
 
-	npm install giffo-id 
+	npm install -g giffo-id 
 
 #####import
 
