@@ -12,7 +12,7 @@
  */
 
 
-// i am just turning a byte into a char, wasting 2 bits per char
+//FIXME: i am just turning a byte into a char, wasting 2 bits per char
 
 
 var ID = module.exports = function(size) {
